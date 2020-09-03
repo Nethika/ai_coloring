@@ -14,18 +14,18 @@ Style Transfer technique is used to add colors to coloring page
 
 ### Input Images:
 
-<img src ="ballerina.png" alt="" width="50%" height="50%">
-<img src ="elephant.png" alt="" width="50%" height="50%">
-<img src ="owl.png" alt="" width="50%" height="50%">
+<img src ="inputs/ballerina.jpg" alt="" width="30%" height="30%">
+<img src ="inputs/elephant.png" alt="" width="30%" height="30%">
+<img src ="inputs/owl.png" alt="" width="30%" height="30%">
 
 
 ### Sampole OutPut Images
 
-<img src ="2_ballerina.png" alt="" width="50%" height="50%">
-<img src ="2_transparent_elephant.png" alt="" width="50%" height="50%">
-<img src ="4_jpg_owl_inverted.png" alt="" width="50%" height="50%">
-<img src ="7_jpg_owl.png" alt="" width="50%" height="50%">
-<img src ="9_ballerina.png" alt="" width="50%" height="50%">
-<img src ="10_ballerina.png" alt="" width="50%" height="50%">
-<img src ="10_elephant_inverted.png" alt="" width="50%" height="50%">
-<img src ="10_transparent_elephant" alt="" width="50%" height="50%">
+<img src ="outputs/2_ballerina.png" alt="" width="30%" height="30%">
+<img src ="outputs/2_transparent_elephant.png" alt="" width="30%" height="30%">
+<img src ="outputs/4_jpg_owl_inverted.png" alt="" width="30%" height="30%">
+<img src ="outputs/7_jpg_owl.png" alt="" width="30%" height="30%">
+<img src ="outputs/9_ballerina.png" alt="" width="30%" height="30%">
+<img src ="outputs/10_ballerina.png" alt="" width="30%" height="30%">
+<img src ="outputs/10_elephant_inverted.png" alt="" width="30%" height="30%">
+<img src ="outputs/10_transparent_elephant" alt="" width="30%" height="30%">
