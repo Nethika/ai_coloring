@@ -19,7 +19,7 @@ Style Transfer technique is used to add colors to coloring page
 <img src ="inputs/owl.png" alt="" width="30%" height="30%">
 
 
-### Sampole OutPut Images
+### Sample OutPut Images
 
 <img src ="outputs/2_ballerina.png" alt="" width="30%" height="30%">
 <img src ="outputs/2_transparent_elephant.png" alt="" width="30%" height="30%">
