@@ -14,7 +14,7 @@ Style Transfer technique is used to add colors to coloring page
 
 ### Input Images:
 
-<img src ="inputs/ballerina.jpg" alt="" width="30%" height="30%">
+<img src ="inputs/ballerina.jpg" width="30%" height="30%">
 <img src ="inputs/elephant.jpg" alt="" width="30%" height="30%">
 <img src ="inputs/owl.png" alt="" width="30%" height="30%">
 
